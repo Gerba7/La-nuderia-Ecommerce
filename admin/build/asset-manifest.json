@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6d33894d.js",
+    "static/media/portada_login.jpg": "/static/media/portada_login.e6f05cf510a4b68d5164.jpg",
+    "static/media/logo.png": "/static/media/logo.21f5488aa80e846e21b0.png",
+    "static/media/image.png": "/static/media/image.74a31d0652f008393f68.png",
+    "index.html": "/index.html",
+    "main.6d33894d.js.map": "/static/js/main.6d33894d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6d33894d.js"
+  ]
+}

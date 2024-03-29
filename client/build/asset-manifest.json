@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.87e275b9.js",
+    "static/media/macrame_cami.jpg": "/static/media/macrame_cami.684060f29357101a86c4.jpg",
+    "static/media/background3.jpg": "/static/media/background3.32a189c53b5a0da22359.jpg",
+    "static/media/la_nuderia_cortinas_portada.jpg": "/static/media/la_nuderia_cortinas_portada.19aac92a4367f043dff5.jpg",
+    "static/media/la_nuderia_tapices_portada2.jpg": "/static/media/la_nuderia_tapices_portada2.e6eebfe20e361b368ae6.jpg",
+    "static/media/la_nuderia_portada1.jpg": "/static/media/la_nuderia_portada1.7be9427c22a15e352de8.jpg",
+    "static/media/la_nuderia_categoria1.jpg": "/static/media/la_nuderia_categoria1.3083894122c51e4f7fc8.jpg",
+    "static/media/la_nuderia_categoria2.jpg": "/static/media/la_nuderia_categoria2.af163540f8869f2c1eb2.jpg",
+    "static/media/la_nuderia_cursos2.jpg": "/static/media/la_nuderia_cursos2.2fad46d142b04c9c0c1d.jpg",
+    "static/media/Australis_Mark.png": "/static/media/Australis_Mark.63dbc04e97d033974817.png",
+    "static/media/logo.png": "/static/media/logo.21f5488aa80e846e21b0.png",
+    "static/media/WAppLogo.png": "/static/media/WAppLogo.3479de81d11d23ee13af.png",
+    "index.html": "/index.html",
+    "main.87e275b9.js.map": "/static/js/main.87e275b9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.87e275b9.js"
+  ]
+}
